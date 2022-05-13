@@ -1,1 +1,1 @@
-mon premier projet qui gère une base de données en utilisant le java et postgres.
+My first Managment App made with java and postgres using JDBC driver
